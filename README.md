@@ -1,9 +1,7 @@
 # Mod Uploader
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![PyInstaller](https://img.shields.io/badge/PyInstaller-5.0+-orange.svg)](https://www.pyinstaller.org/)
 [![Rich](https://img.shields.io/badge/Rich-13.0+-green.svg)](https://rich.readthedocs.io/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Wiki](https://img.shields.io/badge/Wiki-Active-brightgreen.svg)](https://github.com/EmanuelPlays/PythonToExeConverter/wiki/Wiki-Info)
+
 
 
 A lightweight console tool to inspect, summarize and upload mods into Minecraft modpacks. Designed for quick local workflows: discover modpacks, preview contents (mods, resourcepacks, datapacks, config), detect Minecraft version and pack metadata, and copy selected \`.jar\` mods into a target modpack.
